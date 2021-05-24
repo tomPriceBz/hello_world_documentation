@@ -3,7 +3,7 @@
     "arch": "AMD64",
     "building": true,
     "caching": true,
-    "created": 1621875476,
+    "created": 1621876255,
     "default_patch_lock": "no_lock",
     "failure_description": null,
     "from_cache": false,
@@ -74,9 +74,9 @@
     "rez_path": "c:\\users\\price\\rezpackages\\lib\\site-packages\\rez",
     "rez_version": "2.88.2",
     "serialize_version": "4.7",
-    "solve_time": 0.00396728515625,
+    "solve_time": 0.005979061126708984,
     "status": "solved",
     "suite_context_name": null,
-    "timestamp": 1621875476,
+    "timestamp": 1621876255,
     "user": "price"
 }
