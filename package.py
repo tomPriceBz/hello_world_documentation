@@ -1,6 +1,6 @@
-name = "hello_world"
+name = "hello_world_test"
 
-version = "1.0.2"
+version = "1.0.0"
 
 authors = [
     "ajohns"
