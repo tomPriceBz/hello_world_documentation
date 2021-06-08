@@ -3,7 +3,7 @@
     "arch": "AMD64",
     "building": true,
     "caching": true,
-    "created": 1621876255,
+    "created": 1621940229,
     "default_patch_lock": "no_lock",
     "failure_description": null,
     "from_cache": false,
@@ -20,7 +20,9 @@
     "package_caching": false,
     "package_filter": [],
     "package_orderers": null,
-    "package_paths": [],
+    "package_paths": [
+        "C:\\Users\\price\\rez_release_path"
+    ],
     "package_requests": [
         "python"
     ],
@@ -34,7 +36,7 @@
             "key": "filesystem.variant",
             "variables": {
                 "index": null,
-                "location": "c:\\users\\price\\rez_local_packages_path",
+                "location": "c:\\users\\price\\rez_release_path",
                 "name": "platform",
                 "repository_type": "filesystem",
                 "version": "windows"
@@ -44,7 +46,7 @@
             "key": "filesystem.variant",
             "variables": {
                 "index": null,
-                "location": "c:\\users\\price\\rez_local_packages_path",
+                "location": "c:\\users\\price\\rez_release_path",
                 "name": "arch",
                 "repository_type": "filesystem",
                 "version": "AMD64"
@@ -54,7 +56,7 @@
             "key": "filesystem.variant",
             "variables": {
                 "index": null,
-                "location": "c:\\users\\price\\rez_local_packages_path",
+                "location": "c:\\users\\price\\rez_release_path",
                 "name": "os",
                 "repository_type": "filesystem",
                 "version": "windows-10.0.19041.SP0"
@@ -64,7 +66,7 @@
             "key": "filesystem.variant",
             "variables": {
                 "index": 0,
-                "location": "c:\\users\\price\\rez_local_packages_path",
+                "location": "c:\\users\\price\\rez_release_path",
                 "name": "python",
                 "repository_type": "filesystem",
                 "version": "3.9.5"
@@ -74,9 +76,9 @@
     "rez_path": "c:\\users\\price\\rezpackages\\lib\\site-packages\\rez",
     "rez_version": "2.88.2",
     "serialize_version": "4.7",
-    "solve_time": 0.005979061126708984,
+    "solve_time": 0.006852626800537109,
     "status": "solved",
     "suite_context_name": null,
-    "timestamp": 1621876255,
+    "timestamp": 1621940229,
     "user": "price"
 }
