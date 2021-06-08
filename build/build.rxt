@@ -3,7 +3,7 @@
     "arch": "AMD64",
     "building": true,
     "caching": true,
-    "created": 1621940229,
+    "created": 1623170344,
     "default_patch_lock": "no_lock",
     "failure_description": null,
     "from_cache": false,
@@ -21,7 +21,7 @@
     "package_filter": [],
     "package_orderers": null,
     "package_paths": [
-        "C:\\Users\\price\\rez_release_path"
+        "C:/Users/price/rez_release_path"
     ],
     "package_requests": [
         "python"
@@ -76,9 +76,9 @@
     "rez_path": "c:\\users\\price\\rezpackages\\lib\\site-packages\\rez",
     "rez_version": "2.88.2",
     "serialize_version": "4.7",
-    "solve_time": 0.006852626800537109,
+    "solve_time": 0.03188014030456543,
     "status": "solved",
     "suite_context_name": null,
-    "timestamp": 1621940229,
+    "timestamp": 1623170344,
     "user": "price"
 }
