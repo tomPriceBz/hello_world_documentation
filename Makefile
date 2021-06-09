@@ -14,7 +14,7 @@ help:
 
 .PHONY: help Makefile
 
-gitzxczxchub:
+github:
   @make html
   @cp -a docs_build/html/. ./docs
 
